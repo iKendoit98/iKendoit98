@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iKendoit98
+- 👋 Hi, I’m @iankendoit
 - 👀 I’m interested in software development and automation
 - 🌱 I’m currently learning python automation
 - 💞️ I’m looking to collaborate on simple and useful projects
